@@ -1,0 +1,23 @@
+[
+  {
+    "product": "Cement 50kg",
+    "supplier": "Nairobi Builders Ltd",
+    "location": "Nairobi",
+    "price": 720,
+    "verified": true
+  },
+  {
+    "product": "Cement 50kg",
+    "supplier": "Nakuru Cement Depot",
+    "location": "Nakuru",
+    "price": 690,
+    "verified": true
+  },
+  {
+    "product": "Cement 50kg",
+    "supplier": "Metro Supplies",
+    "location": "Nairobi",
+    "price": 740,
+    "verified": false
+  }
+]
